@@ -1,7 +1,7 @@
  <?php 
 
-   $app_id = "288865744477932";
-   $app_secret = "e4c2ea25cb64e60bf8e34ae5f272b455";
+   $app_id = "";
+   $app_secret = "";
    $my_url = "http://172.27.22.192/hacku/worker/test.php";
 
    session_start();
